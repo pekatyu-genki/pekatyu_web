@@ -1,0 +1,15 @@
+#eyecatch {
+    width: 100%;
+    height: 500px;
+    transform: translate(0,-50px);
+    .main_imag {
+        width: 100%;
+        height: 65%;
+        margin-left: 5%;
+        background-image: url(../images/Screenshot_20181210-224601.png);
+        background-size: 30%, 30%;
+        background-position: 0% 20%;
+        background-repeat: no-repeat;
+        z-index: 5;
+    }
+}
